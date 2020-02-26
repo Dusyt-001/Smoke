@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21ddfa"],{d2c9:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" video ")])},d=[],a={name:"video1",created:function(){}},i=a,o=t("2877"),u=Object(o["a"])(i,c,d,!1,null,"2764f39b",null);n["default"]=u.exports}}]);
